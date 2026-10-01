@@ -25,22 +25,20 @@ name: Muhammad Kaif Rajput
 role: Full-Stack Developer & AI Enthusiast
 company: Founder @ ApexRuler Tech
 location: Pakistan
-focus:
-  - Full-Stack Web Development (MERN + PHP)
-  - Mobile App Development (React Native + Expo)
-  - AI-Integrated Products & SaaS
-  - Business Automation & Digital Solutions
-live_projects:
-  - ApexRuler Tech        -> Company & product portfolio
-  - DSA Masters           -> Algorithmic learning platform
-  - Diabetes Prediction   -> AI-powered health diagnosis tool
-in_active_development:
-  - MedAssist             -> AI-powered medical assistant
-  - BusinessReach         -> B2B outreach & CRM automation
-  - MySocial              -> Unified social media management suite
+focus: Full-Stack Web, Mobile Apps & AI Systems
 ```
 
 I'm a passionate developer who builds products that solve real problems. From healthcare to business automation, I combine **Full-Stack engineering with AI** to create impactful software.
+
+### ðŸŒ Live Products:
+- ðŸ¢ [**ApexRuler Tech**](https://apexruler.netlify.app) â€” Company portfolio & modern tech solutions
+- ðŸ“š [**DSA Masters**](https://dsamasters.com) â€” Interactive platform for mastering Data Structures & Algorithms
+- ðŸ©º [**Diabetes Prediction AI**](https://diabetes-chec.streamlit.app/) â€” Live Machine Learning health diagnostic application
+
+### ðŸ› ï¸ In Active Development:
+- ðŸ¥ **MedAssist** â€” Intelligent AI-powered medical assistant and triage system
+- ðŸ“Š **BusinessReach** â€” B2B lead generation & outreach automation CRM
+- ðŸ“± **MySocial** â€” Unified multi-platform social media management suite
 
 ---
 
