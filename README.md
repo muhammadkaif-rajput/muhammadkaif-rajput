@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B2A4A,100:7B2FBE&height=200&section=header&text=Muhammad%20Kaif%20Rajput&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Founder%20%40%20ApexRuler%20Tech&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Products+%F0%9F%9A%80;AI+%2B+Mobile+%2B+Web+Developer;Founder+%40+ApexRuler+Tech+%F0%9F%92%BC;Turning+Ideas+Into+Real+Products+%F0%9F%92%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Products;AI+%2B+Mobile+%2B+Web+Developer;Founder+%40+ApexRuler+Tech;Turning+Ideas+Into+Real+Products" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p>
@@ -18,35 +18,35 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## About Me
 
 ```yaml
 name: Muhammad Kaif Rajput
 role: Full-Stack Developer & AI Enthusiast
 company: Founder @ ApexRuler Tech
-location: Pakistan ðŸ‡µðŸ‡°
+location: Pakistan
 focus:
   - Full-Stack Web Development (MERN + PHP)
   - Mobile App Development (React Native + Expo)
   - AI-Integrated Products & SaaS
   - Business Automation & Digital Solutions
 live_projects:
-  - ApexRuler Tech        â†’ Company & product portfolio
-  - DSA Masters           â†’ Algorithmic learning platform
-  - Diabetes Prediction   â†’ AI-powered health diagnosis tool
+  - ApexRuler Tech        -> Company & product portfolio
+  - DSA Masters           -> Algorithmic learning platform
+  - Diabetes Prediction   -> AI-powered health diagnosis tool
 in_active_development:
-  - MedAssist             â†’ AI-powered medical assistant
-  - BusinessReach         â†’ B2B outreach & CRM automation
-  - MySocial              â†’ Unified social media management suite
+  - MedAssist             -> AI-powered medical assistant
+  - BusinessReach         -> B2B outreach & CRM automation
+  - MySocial              -> Unified social media management suite
 ```
 
-I'm a passionate developer who doesn't just write code â€” **I build products that solve real problems**. From healthcare to business automation, I combine **Full-Stack engineering with AI** to create impactful software.
+I'm a passionate developer who builds products that solve real problems. From healthcare to business automation, I combine **Full-Stack engineering with AI** to create impactful software.
 
 ---
 
-## ðŸ› ï¸ Technology Stack
+## Technology Stack
 
-### ðŸ’» Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,7 +57,7 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ðŸŽ¨ Frontend & Mobile
+### Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -66,7 +66,7 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### âš™ï¸ Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -74,7 +74,7 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### ðŸ—„ï¸ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -83,7 +83,7 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ðŸ”§ Tools & Development
+### Tools & Development
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -93,35 +93,35 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ¢ [ApexRuler Tech](https://apexruler.netlify.app)
-> **Official Tech Studio & Solutions**
+### [ApexRuler Tech](https://apexruler.netlify.app)
+> Official Tech Studio & Solutions
 
 A technology venture focused on building digital solutions, SaaS applications, and modern web products. Driving innovation and modern developer tools.
 
 **Stack:** `React.js` `JavaScript` `Modern UI`
 
 <p>
-  <a href="https://apexruler.netlify.app" target="_blank"><img src="https://img.shields.io/badge/ðŸŒ_Live_Demo-7B2FBE?style=flat-square" /></a>
+  <a href="https://apexruler.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7B2FBE?style=flat-square" /></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ“š [DSA Masters](https://dsamasters.com)
-> **Algorithmic Learning Platform**
+### [DSA Masters](https://dsamasters.com)
+> Algorithmic Learning Platform
 
 An interactive learning ecosystem designed for mastering Data Structures and Algorithms with structured problem sets, step-by-step guidance, and interview preparation.
 
 **Stack:** `React.js` `Node.js` `Algorithms` `Full-Stack`
 
 <p>
-  <a href="https://dsamasters.com" target="_blank"><img src="https://img.shields.io/badge/ðŸŒ_Visit_Site-00C7B7?style=flat-square" /></a>
+  <a href="https://dsamasters.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-00C7B7?style=flat-square" /></a>
 </p>
 
 </td>
@@ -130,30 +130,30 @@ An interactive learning ecosystem designed for mastering Data Structures and Alg
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ©º [Diabetes Prediction AI](https://diabetes-chec.streamlit.app/)
-> **Machine Learning Healthcare Application**
+### [Diabetes Prediction AI](https://diabetes-chec.streamlit.app/)
+> Machine Learning Healthcare Application
 
 An intelligent diagnostic tool powered by Machine Learning that predicts diabetes risk from medical parameters with high diagnostic accuracy.
 
 **Stack:** `Python` `Machine Learning` `Streamlit` `Scikit-Learn`
 
 <p>
-  <a href="https://diabetes-chec.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/ðŸŒ_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
-  <a href="https://github.com/muhammadkaif-rajput/Diabetes-Prediction-Project" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
+  <a href="https://diabetes-chec.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+  <a href="https://github.com/muhammadkaif-rajput/Diabetes-Prediction-Project" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github" /></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ¥ MedAssist
-> **AI Medical Assistant & Triage**
+### MedAssist
+> AI Medical Assistant & Triage
 
 An intelligent healthcare assistant leveraging NLP and AI to provide preliminary symptom analysis, medical triage recommendations, and care guidance.
 
 **Stack:** `React Native` `Python` `AI/NLP` `Node.js`
 
 <p>
-  <img src="https://img.shields.io/badge/Status-ðŸ› ï¸_In_Development-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" />
   <img src="https://img.shields.io/badge/Access-Private_Beta-gray?style=flat-square" />
 </p>
 
@@ -163,30 +163,30 @@ An intelligent healthcare assistant leveraging NLP and AI to provide preliminary
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ“Š BusinessReach
-> **B2B Outreach & Pipeline CRM**
+### BusinessReach
+> B2B Outreach & Pipeline CRM
 
 A client acquisition and outreach automation system built to manage lead pipelines, schedule follow-ups, and automate business communications.
 
 **Stack:** `Node.js` `Express.js` `PostgreSQL` `REST APIs`
 
 <p>
-  <img src="https://img.shields.io/badge/Status-ðŸ› ï¸_In_Development-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" />
   <img src="https://img.shields.io/badge/Access-Private_Beta-gray?style=flat-square" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ“± MySocial
-> **All-In-One Social Platform**
+### MySocial
+> All-In-One Social Platform
 
 A unified social dashboard enabling scheduled multi-platform publishing, real-time analytics, and community engagement.
 
 **Stack:** `React.js` `React Native` `MongoDB` `Firebase`
 
 <p>
-  <img src="https://img.shields.io/badge/Status-ðŸ› ï¸_In_Development-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square" />
   <img src="https://img.shields.io/badge/Access-Private_Beta-gray?style=flat-square" />
 </p>
 
@@ -196,7 +196,7 @@ A unified social dashboard enabling scheduled multi-platform publishing, real-ti
 
 ---
 
-## ðŸ“Š GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
 
@@ -211,34 +211,18 @@ A unified social dashboard enabling scheduled multi-platform publishing, real-ti
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadkaif-rajput&theme=tokyo-night&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
-## ðŸ† GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadkaif-rajput&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ðŸ“¬ Let's Connect
+## Let's Connect
 
 <div align="center">
 
 | Platform | Link |
 |:--------:|:----:|
-| ðŸ’¼ **LinkedIn** | [linkedin.com/in/muhammadkaif-rajput](https://www.linkedin.com/in/muhammadkaif-rajput) |
-| ðŸŒ **ApexRuler Tech** | [apexruler.netlify.app](https://apexruler.netlify.app) |
-| ðŸ“š **DSA Masters** | [dsamasters.com](https://dsamasters.com) |
-| ðŸ“§ **Email** | [sigmaruler786@gmail.com](mailto:sigmaruler786@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/muhammadkaif-rajput](https://www.linkedin.com/in/muhammadkaif-rajput) |
+| **ApexRuler Tech** | [apexruler.netlify.app](https://apexruler.netlify.app) |
+| **DSA Masters** | [dsamasters.com](https://dsamasters.com) |
+| **Email** | [sigmaruler786@gmail.com](mailto:sigmaruler786@gmail.com) |
 
 <br/>
 
