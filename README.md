@@ -9,9 +9,9 @@
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=muhammadkaif-rajput&label=Profile%20Views&color=7B2FBE&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/muhammadkaif-rajput"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kaif@apexruler.tech"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://apexruler.tech"><img src="https://img.shields.io/badge/Portfolio-7B2FBE?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammadkaif-rajput" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sigmaruler786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://apexruler.netlify.app" target="_blank"><img src="https://img.shields.io/badge/ApexRuler%20Tech-7B2FBE?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 
 </div>
@@ -29,15 +29,18 @@ focus:
   - Full-Stack Web Development (MERN + PHP)
   - Mobile App Development (React Native + Expo)
   - AI-Integrated Products & SaaS
-  - Business Automation & Digital Transformation
-currently_building:
-  - DSA Masters   â†’ Algorithmic learning platform
-  - MedAssist     â†’ AI-powered medical assistant
-  - BusinessReach â†’ B2B outreach & CRM automation
-  - MySocial      â†’ Social media management platform
+  - Business Automation & Digital Solutions
+live_projects:
+  - ApexRuler Tech        â†’ Company & product portfolio
+  - DSA Masters           â†’ Algorithmic learning platform
+  - Diabetes Prediction   â†’ AI-powered health diagnosis tool
+in_active_development:
+  - MedAssist             â†’ AI-powered medical assistant
+  - BusinessReach         â†’ B2B outreach & CRM automation
+  - MySocial              â†’ Unified social media management suite
 ```
 
-I'm a passionate developer who doesn't just write code â€” **I build products that solve real problems**. From healthcare to business automation, I combine **Full-Stack engineering with AI** to create meaningful software.
+I'm a passionate developer who doesn't just write code â€” **I build products that solve real problems**. From healthcare to business automation, I combine **Full-Stack engineering with AI** to create impactful software.
 
 ---
 
@@ -68,7 +71,7 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### ðŸ—„ï¸ Databases
@@ -80,13 +83,12 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ðŸ”§ Tools & DevOps
+### ðŸ”§ Tools & Development
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
@@ -97,66 +99,96 @@ I'm a passionate developer who doesn't just write code â€” **I build produc
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ¢ [ApexRuler Tech](https://apexruler.tech)
-> **Tech Company & Product Studio**
+### ðŸ¢ [ApexRuler Tech](https://apexruler.netlify.app)
+> **Official Tech Studio & Solutions**
 
-A software company focused on building SaaS products and delivering high-quality software solutions. ApexRuler Tech is where products like DSA Masters, MedAssist, and MySocial are born.
+A technology venture focused on building digital solutions, SaaS applications, and modern web products. Driving innovation and modern developer tools.
 
-**Stack:** `React.js` `Node.js` `Python` `AI/ML`
+**Stack:** `React.js` `JavaScript` `Modern UI`
 
-[![Live](https://img.shields.io/badge/ðŸŒ_Live-7B2FBE?style=flat-square)](https://apexruler.tech)
+<p>
+  <a href="https://apexruler.netlify.app" target="_blank"><img src="https://img.shields.io/badge/ðŸŒ_Live_Demo-7B2FBE?style=flat-square" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ“š [DSA Masters](https://github.com/muhammadkaif-rajput/dsa-masters)
+### ðŸ“š [DSA Masters](https://dsamasters.com)
 > **Algorithmic Learning Platform**
 
-An interactive platform for mastering Data Structures & Algorithms. Features step-by-step visualizations, problem sets, and progress tracking â€” designed for students and interview prep.
+An interactive learning ecosystem designed for mastering Data Structures and Algorithms with structured problem sets, step-by-step guidance, and interview preparation.
 
-**Stack:** `React.js` `Node.js` `MongoDB` `Algorithms`
+**Stack:** `React.js` `Node.js` `Algorithms` `Full-Stack`
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/muhammadkaif-rajput/dsa-masters)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ðŸ¥ [MedAssist](https://github.com/muhammadkaif-rajput/medassist)
-> **AI-Powered Medical Assistant**
-
-An intelligent healthcare assistant that leverages AI to provide medical guidance, symptom checking, and appointment management. Bridging the gap between patients and healthcare information.
-
-**Stack:** `React Native` `Python` `AI/ML` `Node.js` `MongoDB`
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/muhammadkaif-rajput/medassist)
-
-</td>
-<td width="50%" valign="top">
-
-### ðŸ“Š [BusinessReach](https://github.com/muhammadkaif-rajput/businessreach)
-> **B2B Outreach & CRM Automation**
-
-A powerful CRM and outreach automation platform helping businesses streamline their sales pipeline, manage contacts, and automate follow-ups at scale.
-
-**Stack:** `React.js` `Node.js` `PostgreSQL` `REST API`
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/muhammadkaif-rajput/businessreach)
+<p>
+  <a href="https://dsamasters.com" target="_blank"><img src="https://img.shields.io/badge/ðŸŒ_Visit_Site-00C7B7?style=flat-square" /></a>
+</p>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### ðŸ“± [MySocial](https://github.com/muhammadkaif-rajput/mysocial)
-> **Social Media Management Platform**
+### ðŸ©º [Diabetes Prediction AI](https://diabetes-chec.streamlit.app/)
+> **Machine Learning Healthcare Application**
 
-A unified social media management platform that enables content scheduling, analytics, and multi-platform management from a single dashboard. Built for creators and businesses.
+An intelligent diagnostic tool powered by Machine Learning that predicts diabetes risk from medical parameters with high diagnostic accuracy.
 
-**Stack:** `React.js` `React Native` `Node.js` `MongoDB` `Firebase`
+**Stack:** `Python` `Machine Learning` `Streamlit` `Scikit-Learn`
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/muhammadkaif-rajput/mysocial)
+<p>
+  <a href="https://diabetes-chec.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/ðŸŒ_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+  <a href="https://github.com/muhammadkaif-rajput/Diabetes-Prediction-Project" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### ðŸ¥ MedAssist
+> **AI Medical Assistant & Triage**
+
+An intelligent healthcare assistant leveraging NLP and AI to provide preliminary symptom analysis, medical triage recommendations, and care guidance.
+
+**Stack:** `React Native` `Python` `AI/NLP` `Node.js`
+
+<p>
+  <img src="https://img.shields.io/badge/Status-ðŸ› ï¸_In_Development-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Access-Private_Beta-gray?style=flat-square" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ðŸ“Š BusinessReach
+> **B2B Outreach & Pipeline CRM**
+
+A client acquisition and outreach automation system built to manage lead pipelines, schedule follow-ups, and automate business communications.
+
+**Stack:** `Node.js` `Express.js` `PostgreSQL` `REST APIs`
+
+<p>
+  <img src="https://img.shields.io/badge/Status-ðŸ› ï¸_In_Development-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Access-Private_Beta-gray?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### ðŸ“± MySocial
+> **All-In-One Social Platform**
+
+A unified social dashboard enabling scheduled multi-platform publishing, real-time analytics, and community engagement.
+
+**Stack:** `React.js` `React Native` `MongoDB` `Firebase`
+
+<p>
+  <img src="https://img.shields.io/badge/Status-ðŸ› ï¸_In_Development-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Access-Private_Beta-gray?style=flat-square" />
+</p>
 
 </td>
 </tr>
@@ -164,7 +196,7 @@ A unified social media management platform that enables content scheduling, anal
 
 ---
 
-## ðŸ“Š GitHub Stats
+## ðŸ“Š GitHub Stats & Activity
 
 <div align="center">
 
@@ -203,23 +235,23 @@ A unified social media management platform that enables content scheduling, anal
 
 | Platform | Link |
 |:--------:|:----:|
-| ðŸ’¼ LinkedIn | [linkedin.com/in/muhammadkaif-rajput](https://www.linkedin.com/in/muhammadkaif-rajput) |
-| ðŸŒ Portfolio | [apexruler.tech](https://apexruler.tech) |
-| ðŸ“§ Email | [kaif@apexruler.tech](mailto:kaif@apexruler.tech) |
-| ðŸ¦ Twitter/X | [@muhammadkaif_r](https://twitter.com/muhammadkaif_r) |
+| ðŸ’¼ **LinkedIn** | [linkedin.com/in/muhammadkaif-rajput](https://www.linkedin.com/in/muhammadkaif-rajput) |
+| ðŸŒ **ApexRuler Tech** | [apexruler.netlify.app](https://apexruler.netlify.app) |
+| ðŸ“š **DSA Masters** | [dsamasters.com](https://dsamasters.com) |
+| ðŸ“§ **Email** | [sigmaruler786@gmail.com](mailto:sigmaruler786@gmail.com) |
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muhammadkaif-rajput">
+<a href="https://www.linkedin.com/in/muhammadkaif-rajput" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://apexruler.tech">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://apexruler.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/ApexRuler_Tech-Visit_Site-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:kaif@apexruler.tech">
-  <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sigmaruler786@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
