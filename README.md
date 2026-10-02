@@ -10,8 +10,8 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=muhammadkaif-rajput&label=Profile%20Views&color=7B2FBE&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/muhammadkaif-rajput" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sigmaruler786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://apexruler.netlify.app" target="_blank"><img src="https://img.shields.io/badge/ApexRuler%20Tech-7B2FBE?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:apexrulertech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://apexrulertech.com" target="_blank"><img src="https://img.shields.io/badge/ApexRuler%20Tech-7B2FBE?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 
 </div>
@@ -31,7 +31,7 @@ focus: Full-Stack Web, Mobile Apps & AI Systems
 I'm a passionate developer who builds products that solve real problems. From healthcare to business automation, I combine **Full-Stack engineering with AI** to create impactful software.
 
 ### ðŸŒ Live Products:
-- ðŸ¢ [**ApexRuler Tech**](https://apexruler.netlify.app) â€” Company portfolio & modern tech solutions
+- ðŸ¢ [**ApexRuler Tech**](https://apexrulertech.com) â€” Company Website & modern tech solutions
 - ðŸ“š [**DSA Masters**](https://dsamasters.com) â€” Interactive platform for mastering Data Structures & Algorithms
 - ðŸ©º [**Diabetes Prediction AI**](https://diabetes-chec.streamlit.app/) â€” Live Machine Learning health diagnostic application
 
@@ -77,13 +77,12 @@ I'm a passionate developer who builds products that solve real problems. From he
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+ 
 </p>
 
 ### Tools & Development
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -97,7 +96,7 @@ I'm a passionate developer who builds products that solve real problems. From he
 <tr>
 <td width="50%" valign="top">
 
-### [ApexRuler Tech](https://apexruler.netlify.app)
+### [ApexRuler Tech](https://apexrulertech.com)
 > Official Tech Studio & Solutions
 
 A technology venture focused on building digital solutions, SaaS applications, and modern web products. Driving innovation and modern developer tools.
@@ -105,7 +104,7 @@ A technology venture focused on building digital solutions, SaaS applications, a
 **Stack:** `React.js` `JavaScript` `Modern UI`
 
 <p>
-  <a href="https://apexruler.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7B2FBE?style=flat-square" /></a>
+  <a href="https://apexrulertech.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7B2FBE?style=flat-square" /></a>
 </p>
 
 </td>
@@ -218,9 +217,9 @@ A unified social dashboard enabling scheduled multi-platform publishing, real-ti
 | Platform | Link |
 |:--------:|:----:|
 | **LinkedIn** | [linkedin.com/in/muhammadkaif-rajput](https://www.linkedin.com/in/muhammadkaif-rajput) |
-| **ApexRuler Tech** | [apexruler.netlify.app](https://apexruler.netlify.app) |
+| **ApexRuler Tech** | [apexrulertech.com](https://apexruler.netlify.app) |
 | **DSA Masters** | [dsamasters.com](https://dsamasters.com) |
-| **Email** | [sigmaruler786@gmail.com](mailto:sigmaruler786@gmail.com) |
+| **Email** | [apexrulertech@gmail.com](mailto:apexrulertech@gmail.com) |
 
 <br/>
 
@@ -228,11 +227,11 @@ A unified social dashboard enabling scheduled multi-platform publishing, real-ti
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://apexruler.netlify.app" target="_blank">
+<a href="https://apexrulertech.com" target="_blank">
   <img src="https://img.shields.io/badge/ApexRuler_Tech-Visit_Site-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:sigmaruler786@gmail.com">
+<a href="mailto:apexrulertech@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
